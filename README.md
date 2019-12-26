@@ -9,12 +9,6 @@
 
 1. 메인 페이지
 
-   ![main](C:\Users\adminX\Desktop\개발자들 해커톤\main.JPG)
-
 2. 게임 소개 페이지
 
-   ![introduce](C:\Users\adminX\Desktop\개발자들 해커톤\introduce.JPG)
-
 3. 다운로드 페이지
-
-   ![download](C:\Users\adminX\Desktop\개발자들 해커톤\download.JPG)
